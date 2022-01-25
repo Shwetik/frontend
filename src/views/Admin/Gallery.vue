@@ -2,10 +2,8 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h4 class="pt-3">Gallery</h4>
-        <router-link id="add-image" :to="{name : 'AddImage'}">
-          <button class="btn">Add a new Image</button>
-        </router-link>
+        <h4 class="pt-3">Notifications</h4>
+        
       </div>
     </div>
 
